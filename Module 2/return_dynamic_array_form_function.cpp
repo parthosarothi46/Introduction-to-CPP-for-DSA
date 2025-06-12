@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-int* p;
 int* fun()
 {
     int *a = new int[5];
